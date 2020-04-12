@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div>iconfont-script插件测试</div>
+    <span class="iconfont icon-sousuo">图标测试</span>
   </div>
 </template>
 

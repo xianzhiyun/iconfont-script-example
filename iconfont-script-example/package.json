@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "iconfont": "node scripts/iconfont.js",
     "build": "vue-cli-service build"
   },
   "dependencies": {
@@ -13,6 +14,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
+    "iconfont-script": "^1.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.11"
